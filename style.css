@@ -324,3 +324,8 @@ hr {
         font-size: 30px;
     }
 }
+@media(max-width: 420px){
+    .footer-row{
+        font-size: 15px;
+    }
+}
